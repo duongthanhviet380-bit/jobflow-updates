@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-20",
+  "writeTest": true,
+  "note": "写入测试文件，验证后删除，不影响 latest.json",
+  "jobs": []
+}
