@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "summary": "2026-10-21 滚动更新（合并近 2 天增量，共 47 条：深圳 24 条、香港 16 条、香港（鰂鱼涌） 1 条、深圳（宝安区福永街道福园二路中集空港工业园） 1 条、香港（观塘） 1 条、广州 1 条、深圳（另含东莞、上海、北京、西安、杭州） 1 条、香港 · 跑马地 2 条）。",
+  "summary": "2026-10-21 滚动更新（合并近 2 天增量，共 49 条：深圳 26 条、香港 16 条、香港（鰂鱼涌） 1 条、深圳（宝安区福永街道福园二路中集空港工业园） 1 条、香港（观塘） 1 条、广州 1 条、深圳（另含东莞、上海、北京、西安、杭州） 1 条、香港 · 跑马地 2 条）。",
   "jobs": [
     {
       "category": "admin",
@@ -785,6 +785,46 @@
       "jobBrief": "负责员工培养体系与大学生培养项目、基地员工活动策划与实施、员工激励与企业文化建设方案。",
       "notes": "原职位名「资深人力资源专员」（J19216）。职责含大学生培养等培训成分，但 4 条职责中 2 条直接对应员工活动策划与企业文化建设，非纯文化岗，如实标注。",
       "why": "员工活动策划与企业文化建设是白纸黑字的职责，与她在腾讯的活动组织策划经验直接对口；深圳总部、医疗器械龙头，平台稳定。"
+    },
+    {
+      "id": "tencent-cdg-admin-specialist-20261021",
+      "company": "腾讯 CDG",
+      "title": "综合行政专员",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "行政支持",
+      "eligibility": "本科及以上；1–3 年行政相关工作经验，有活动运营策划经验者优先（应届投递偏紧）",
+      "recruitStatus": "在招",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-10-21",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2084931594417778688",
+      "jobUrl": "https://careers.tencent.com/jobdesc.html?postId=2084931594417778688",
+      "homepage": "https://careers.tencent.com",
+      "source": "腾讯招聘官网 API 核验在列（postId 2084931594417778688，CDG 行政支持类，2026-10-08 更新）",
+      "jobBrief": "协调办公资源与职场建设运维，协助行政流程建设与提效，规划行政后勤福利、运营 BG 特色活动、助力组织氛围建设。",
+      "notes": "用户清单提供线索后经官网核实。职责以职场与行政流程为主，福利/特色活动/组织氛围为三条主线之一；清单所称「AI 能力加分」在当前官网 JD 原文中未见，原文要求为活动运营策划经验优先，如实标注。",
+      "why": "BG 特色活动运营与组织氛围建设和她的活动策划强项对口；深圳 CDG，经验带 1–3 年。"
+    },
+    {
+      "id": "tencent-cdg-department-secretary-20261021",
+      "company": "腾讯 CDG",
+      "title": "部门秘书",
+      "category": "secretary",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "秘书支持",
+      "eligibility": "本科及以上；2 年以内秘书相关工作经验；商务英语良好（CET6）；能独立组织中小型团队活动",
+      "recruitStatus": "在招",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-10-21",
+      "url": "https://careers.tencent.com/jobdesc.html?postId=2068896960370360320",
+      "jobUrl": "https://careers.tencent.com/jobdesc.html?postId=2068896960370360320",
+      "homepage": "https://careers.tencent.com",
+      "source": "腾讯招聘官网 API 核验在列（postId 2068896960370360320，CDG 行政支持类）",
+      "jobBrief": "负责领导日程、差旅等上级支持与部门管理协助；担任部门职能接口、协助流程制度；组织活动和协助文化落地，活跃组织氛围。",
+      "notes": "用户清单提供线索后经官网核实。四条职责中一条专责「组织活动和协助文化落地」，另含团队融合，为行政秘书岗中文化成分明确的一条。",
+      "why": "组织活动与文化落地是白纸黑字的职责，与她的活动策划经验对口；经验要求 2 年以内，应届可投。"
     }
   ]
 }
