@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-26",
+  "summary": "2026-10-26 更新：新增 1 条（次轨道行政/秘书：香港 1；主轨道 0）；已核验开放 1；已关闭 1 条（香港大学 537316，官网职位页已下线）。本次未发现可新增的具体匹配文化主轨道岗位。",
+  "jobs": [
+    {
+      "id": "hk-hku-537713-ea-public-health-20261026",
+      "company": "香港大学",
+      "title": "Senior Executive Assistant/Executive Assistant（公共卫生学院总办公室，职级 Clerk I/II）",
+      "category": "secretary",
+      "roleValidated": true,
+      "city": "香港",
+      "direction": "秘书支持",
+      "eligibility": "本科及以上学历，至少 2 年相关工作经验（高等教育机构经验优先）；经验不足或学历较低者可任 Executive Assistant",
+      "recruitStatus": "官网在招（发布 2026-10-23，申请至 2026-12-31）",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-10-26",
+      "url": "https://jobs.hku.hk/cw/en/job/537713",
+      "jobUrl": "https://jobs.hku.hk/cw/en/job/537713",
+      "homepage": "https://jobs.hku.hk",
+      "source": "香港大学官网招聘页",
+      "jobBrief": "公共卫生学院总办公室行政支持：为学术项目提供一般支持及其他指派职责；两年固定期合约，可续聘。",
+      "notes": "Ref. 537713，School of Public Health（22400），General Office；官网详情页今晚可打开并带 Apply now 入口；Review of applications continue until December 31, 2026, or until the post is filled；Advertised Oct 23, 2026（前夜扫描漏网，今晚补录）。",
+      "why": "秘书支持类岗位：学院总办公室行政助理，职责为学术项目行政支持，符合次轨道行政/秘书口径。"
+    },
+    {
+      "id": "hk-hku-537316-ea-cancer-20261024",
+      "company": "香港大学",
+      "title": "Executive Assistant（癌症医学中心，职级 Clerk II）",
+      "category": "secretary",
+      "roleValidated": true,
+      "city": "香港",
+      "direction": "秘书支持",
+      "recruitStatus": "已关闭",
+      "checkedDate": "2026-10-26",
+      "url": "https://jobs.hku.hk/cw/en/job/537316",
+      "jobUrl": "https://jobs.hku.hk/cw/en/job/537316",
+      "homepage": "https://jobs.hku.hk",
+      "source": "香港大学官网招聘页",
+      "notes": "2026-10-26 浏览器直连官网职位页重定向至 listing/?jobnotfound=true，无职位详情、无 Apply 入口；原记录截止日 2026-10-25 已过，确认关闭。",
+      "why": "关闭更新：仅更新状态与核验日期，不改其他公开字段。"
+    }
+  ]
+}
