@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-03",
+  "summary": "2026-11-03夜更：新增0条（主轨道企业文化方向0条、次轨道校招行政/秘书0条，深圳/广州/香港均为0）；已关闭2条（影石组织文化专员-2027校招、雇主品牌专员-2027校招，飞书校招门户可达、精确搜索均为0条、未在列）；基线复核仍在招：腾讯校招4条（AI-HR培训生创意方向、员工福利运营、文化交流与接待管理、秘书，join.qq.com均有投递按钮）、深信服综合行政专员1条、港大在列5条（537147、537610、537612、537390、537704，仅更新checkedDate，未进增量）；超龄破格候选0条。本次未发现可新增的具体匹配岗位。安克/寻影飞书校招页仍Not Found（通用站精确搜索亦无校招版，不判关闭）；深信服27届-行政助理JD工作地点仍只写华东/华北/西南等一线城市、未确认为深广港，继续放盯防、未入库；港大站内新见EA/AA岗（537741等13条）均为大学职员招聘、属社招性质，按2026-10-28硬口径未入库。",
+  "jobs": [
+    {
+      "id": "insta360-org-culture-specialist-2027",
+      "company": "影石 Insta360",
+      "title": "组织文化专员",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "企业文化与员工活动",
+      "recruitStatus": "已关闭",
+      "checkedDate": "2026-11-03",
+      "url": "https://arashivision.jobs.feishu.cn/campus/position/7663791003693959478/detail",
+      "jobUrl": "https://arashivision.jobs.feishu.cn/campus/position/7663791003693959478/detail",
+      "homepage": "https://arashivision.jobs.feishu.cn",
+      "source": "影石创新飞书校招门户",
+      "notes": "2026-11-03浏览器复核：飞书校招门户可达，精确搜索“组织文化专员”及“组织文化”均为0条、未在列；同门户“企业文化”仅1条南京实习岗、“行政”均为实习岗，无深圳非实习新岗。原2027校招岗按已下线处理。",
+      "why": "关闭更新：仅更新状态与核验日期，不改其他公开字段。"
+    },
+    {
+      "id": "insta360-employer-brand-specialist-2027",
+      "company": "影石 Insta360",
+      "title": "雇主品牌专员",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "企业文化与员工活动",
+      "recruitStatus": "已关闭",
+      "checkedDate": "2026-11-03",
+      "url": "https://arashivision.jobs.feishu.cn/campus/position/7663789547784587583/detail",
+      "jobUrl": "https://arashivision.jobs.feishu.cn/campus/position/7663789547784587583/detail",
+      "homepage": "https://arashivision.jobs.feishu.cn",
+      "source": "影石创新飞书校招门户",
+      "notes": "2026-11-03浏览器复核：飞书校招门户可达，精确搜索“雇主品牌专员”为0条、未在列。原2027校招岗按已下线处理。",
+      "why": "关闭更新：仅更新状态与核验日期，不改其他公开字段。"
+    }
+  ]
+}
