@@ -77,6 +77,46 @@
       "roleValidated": true,
       "sourceRevision": 12,
       "companyGroup": "人保健康 · 深圳分公司"
+    },
+    {
+      "id": "bytedance-admin-ops-shenzhen-2027",
+      "company": "字节跳动",
+      "title": "行政运营管理",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "行政支持",
+      "eligibility": "2027届校园招聘正式岗，职能/支持-行政设施（学历要求详见职位页）",
+      "recruitStatus": "在招",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-11-03",
+      "url": "https://jobs.bytedance.com/campus/position/7668528911895955717/detail",
+      "jobUrl": "https://jobs.bytedance.com/campus/position/7668528911895955717/detail",
+      "homepage": "https://jobs.bytedance.com/campus/",
+      "source": "字节跳动校招官网详情页核验在列（2026-11-03，职位ID A84355A）",
+      "jobBrief": "企业服务团队行政运营：楼宇物业服务、设施管理、餐饮运营、会务接待、康体活动等，面向员工体验。",
+      "notes": "岗位同时开放上海、北京、成都，本条按深圳 slot 收录；同类目下组织招聘类人力岗已排除。",
+      "why": "会务接待与康体活动属员工体验范畴，与她的活动经验部分对口；字节 2027 届校招正式岗，深圳。第二梯队行政岗，主责仍是行政运营，如实标注。"
+    },
+    {
+      "id": "crc-chem-comprehensive-affairs-hk-2027",
+      "company": "华润化学材料科技股份有限公司",
+      "title": "综合事务岗（驻港）",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "香港",
+      "direction": "企业文化与员工活动",
+      "eligibility": "硕士及以上；面向香港本地高等院校应届毕业生（2027届校招）——她是港中文硕士，符合该条",
+      "recruitStatus": "在招",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-11-03",
+      "url": "https://runjob.crc.com.cn/#/complex/RecruitDetail?id=2113455188153303043&comId=1769554545615040514&typeId=A02",
+      "jobUrl": "https://runjob.crc.com.cn/#/complex/RecruitDetail?id=2113455188153303043&comId=1769554545615040514&typeId=A02",
+      "homepage": "https://runjob.crc.com.cn/mob/",
+      "source": "华润招聘官网 2027 届校招详情页核验在列（2026-11-03，发布 2026-10-23）",
+      "jobBrief": "总部办公室行政后勤组综合事务，含联谊会活动组织；认同央企企业文化。",
+      "notes": "原岗位名「综合事务岗（驻港）ZB」；华润 2027 届校招。",
+      "why": "联谊会活动组织是明文职责，与她的活动策划经验对口；香港校招正式岗，央企平台。"
     }
   ]
 }
