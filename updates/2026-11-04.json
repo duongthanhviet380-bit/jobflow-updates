@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-04",
+  "summary": "2026-11-04夜更：新增1条（主轨道企业文化方向1条：安克创新企业文化专员，深圳，verified_open；次轨道0条）；状态变更1条（香港理工大学教务处行政助理，2026-11-04起正式受理申请，verified_open）；已关闭0条；超龄破格候选0条。基线复核仍在招（仅更新checkedDate，未进增量）：腾讯校招3条（员工福利运营、文化交流与接待管理、秘书）、安克4条（员工体验策划专员、行政专员、品牌传播专员、AIGC短视频创意专员）、深信服综合行政专员（深圳）、字节行政运营管理（深圳slot）、港大537647/537648/537636（截止日当天仍在列，须次日复核是否已关闭）。影石组织文化专员/雇主品牌专员-2027校招今日仍无正式岗在列，与11-03关闭判断一致。",
+  "jobs": [
+    {
+      "id": "anker-culture-specialist-shenzhen-2027",
+      "company": "安克创新",
+      "title": "企业文化专员",
+      "category": "admin",
+      "roleValidated": true,
+      "city": "深圳",
+      "direction": "企业文化与员工活动",
+      "eligibility": "本科及以上；新闻传播等相关专业优先（优先项，非硬门槛）；具备文案撰写/采编能力",
+      "recruitStatus": "在招",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-11-04",
+      "url": "https://anker-in.jobs.feishu.cn/campushirecn/position/7699750328124688682/detail",
+      "jobUrl": "https://anker-in.jobs.feishu.cn/campushirecn/position/7699750328124688682/detail",
+      "homepage": "https://career.anker.com.cn/",
+      "source": "安克创新官方校招站（飞书）",
+      "jobBrief": "企业文化内容采编与内外媒介运营；价值观主题活动、月度全员会、公司年会等文化活动策划执行。",
+      "notes": "2027届校招正式岗，2026-11-04官方飞书校招站详情页在列且可投递；截止日期详情页未显示。专业要求为优先项而非硬门槛，作品集要求详情页未见，投递前请对照。",
+      "why": "主轨道企业文化岗：文化内容采编+文化活动策划执行，与求职者企业文化实习（活动策划+内容制作）直接对口。"
+    },
+    {
+      "category": "secretary",
+      "checkedDate": "2026-11-04",
+      "city": "香港",
+      "company": "香港理工大学",
+      "direction": "秘书支持",
+      "eligibility": "本科学历；至少1年工作经验",
+      "homepage": "https://jobs.polyu.edu.hk",
+      "id": "hk-polyu-261021001-ea-registry-20261024",
+      "jobBrief": "教务处学生行政及记录组行政助理：学生服务行政支持，重点为学生签证事务（签证办理与有效期监控）；协助系统开发维护；处理书面与电话查询；与入境事务处及校内部门联络。固定期限合约；入围者需笔试。",
+      "jobUrl": "https://jobs.polyu.edu.hk/job_detail.php?job=261021001",
+      "notes": "Ref. 261021001-IE，Academic Registry（Student Administration and Records Section）；发布 2026-10-21，申请自 2026-11-04 起受理、招满为止；2026-10-24 当日官网详情页确认在列且有 Apply Now。2026-11-04复核：详情页确认已开放申请、Apply Now在列（4 Nov 2026为受理/初筛开始日，非截止日）。",
+      "recruitStatus": "官网在招（2026-11-04起受理申请，招满为止）",
+      "roleValidated": true,
+      "source": "香港理工大学官网招聘系统",
+      "title": "Executive Assistant（教务处学生行政及记录组）",
+      "url": "https://jobs.polyu.edu.hk/job_detail.php?job=261021001",
+      "verificationStatus": "verified_open",
+      "why": "次轨道补漏：理大教务处学生行政及记录组行政助理（学生签证事务），要求 1 年经验，经验带内；申请 11-04 起受理。"
+    }
+  ]
+}
