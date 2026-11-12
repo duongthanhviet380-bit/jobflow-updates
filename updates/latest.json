@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "summary": "2026-11-12 滚动更新（合并近 7 天增量，共 57 条：香港 15 条、广州 7 条、深圳 29 条、香港/中国内地轮岗 1 条、香港 · 跑马地 2 条、香港（可含中国内地/海外轮岗） 1 条、香港观塘总部（含全球轮岗机会） 1 条、香港机场区 / 将军澳 1 条）。",
+  "date": "2026-11-13",
+  "summary": "2026-11-13 滚动更新（合并近 7 天增量，共 59 条：香港 17 条、广州 7 条、深圳 29 条、香港/中国内地轮岗 1 条、香港 · 跑马地 2 条、香港（可含中国内地/海外轮岗） 1 条、香港观塘总部（含全球轮岗机会） 1 条、香港机场区 / 将军澳 1 条）。",
   "jobs": [
     {
       "category": "secretary",
@@ -1168,6 +1168,46 @@
       "url": "https://join.qq.com/post_detail.html?postid=1284512614105555968",
       "verificationStatus": "verified_open",
       "why": "岗位以福利产品策划与运营为主体，JD 明示招募「点子王、策划能手、创意家」，与她活动策划和内容创意的强项相符；专业不限、无工作经验门槛，应届可投。"
+    },
+    {
+      "id": "hk-hku-537610-senior-ea-chinese-20261027",
+      "company": "香港大学",
+      "title": "Senior Executive Assistant（中文学院，职级 Clerk I）",
+      "category": "secretary",
+      "roleValidated": true,
+      "city": "香港",
+      "direction": "秘书支持",
+      "eligibility": "本科学历，至少 4 年相关工作经验（高校、学生服务、奖学金管理、校友关系、筹款、活动管理、传播或相关领域优先）；良好的中英文书面与口语（含粤语与普通话）",
+      "recruitStatus": "已关闭",
+      "verificationStatus": "verified_open",
+      "checkedDate": "2026-11-13",
+      "url": "https://jobs.hku.hk/cw/en/job/537610",
+      "jobUrl": "https://jobs.hku.hk/cw/en/job/537610",
+      "homepage": "https://jobs.hku.hk",
+      "source": "香港大学官网招聘页",
+      "jobBrief": "中文学院高级行政助理：为学生实习、奖学金与奖项、捐赠人与校友关系提供行政与协调支持；协调申请、安置与相关文件，维护记录、处理问询，协助联络、筹款、传播与活动；两年固定期合约。",
+      "notes": "Ref. 537610，School of Chinese（04100）；数据库/记录管理、数字传播、社媒、Canva 等设计工具或活动协调经验为优势；库内已有中文学院 EA（Ref. 537551），此为不同 Ref，不合并。 2026-11-13复核：浏览器直读详情页重定向至 /listing/?jobnotfound=true，显示岗位信息无法提供，已关闭（Applications close 2026-11-12 已过）。",
+      "why": "次轨道秘书岗，超龄破格候选：4 年经验要求超出 0–3 年主带，但职责含学生活动与传播协调成分，且社媒/设计工具经验为优势，列为超龄破格供判断。"
+    },
+    {
+      "category": "secretary",
+      "checkedDate": "2026-11-13",
+      "city": "香港",
+      "company": "香港大学",
+      "direction": "秘书支持",
+      "eligibility": "学士学位，至少 2 年全职行政或学生事务工作经验（高等教育机构或教育行业优先）；优秀的中英文书写与口语；经验或学历稍低者可按 Clerk II 考虑",
+      "homepage": "https://jobs.hku.hk",
+      "id": "hk-hku-537704-ea-undergrad-enrichment-20261028",
+      "jobBrief": "本科生拓展团队行政助理：为学院本科生拓展项目提供行政与文书支持，包括协调活动、项目与游学团、维护数据库、联络学生及内外部利益相关方、数据录入及团队日常行政；偶需出差及非办公时间工作。两年固定期限合约，可续约。",
+      "jobUrl": "https://jobs.hku.hk/cw/en/job/537704",
+      "notes": "Ref. 537704；官网详情页 2026-10-28 仍在列并显示 Apply now；申请截止 2026-11-12（或招满即止）。 2026-11-13复核：浏览器直读详情页重定向至 /listing/?jobnotfound=true，显示岗位信息无法提供，已关闭（Applications close 2026-11-12 已过）。",
+      "recruitStatus": "已关闭",
+      "roleValidated": true,
+      "source": "香港大学官网招聘页",
+      "title": "Senior Executive Assistant/Executive Assistant（本科生拓展，职级 Clerk I/II）",
+      "url": "https://jobs.hku.hk/cw/en/job/537704",
+      "verificationStatus": "verified_open",
+      "why": "次轨道秘书/行政岗：职责主体是项目行政与活动协调，非人事、销售、市场或管培；本科生拓展活动协调与求职者活动组织经验相关。"
     }
   ]
 }
