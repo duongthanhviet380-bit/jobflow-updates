@@ -1,5 +1,26 @@
 {
   "date": "2026-11-18",
-  "jobs": [],
-  "summary": "本次未发现可新增的具体匹配岗位；关闭 0 条。"
+  "jobs": [
+    {
+      "category": "secretary",
+      "checkedDate": "2026-11-18",
+      "city": "香港",
+      "company": "香港大学",
+      "deadline": "2026-11-25",
+      "direction": "秘书支持",
+      "eligibility": "本科学历，至少2年相关工作经验（建议高校背景）；优秀的中英文书面及口语",
+      "homepage": "https://jobs.hku.hk",
+      "id": "hk-hku-537637-ea-mba-admissions-20261023",
+      "jobBrief": "MBA 项目招生行政支持：审核处理申请、记录数据维护、学历核验、文件管理及相关招生与入学工作；工作地点为数码港校园；两年固定期限合约。",
+      "jobUrl": "https://jobs.hku.hk/cw/en/job/537637",
+      "notes": "2026-10-29 过期复查：详情页仍在列并显示 Apply 按钮；页面标注 Applications close: Nov 11, 2026，正文注明原 2026-10-28 截止已延期至 2026-11-11（或招满即止），故不关闭，截止日更新为 2026-11-11。 2026-11-18复核：详情页仍在列，Apply now 可见，截止已由 2026-11-11 延长至 2026-11-25，未关闭。",
+      "recruitStatus": "官网在招（申请至 2026-11-25，原 11-11 延期）",
+      "roleValidated": true,
+      "source": "香港大学官网招聘系统",
+      "title": "Executive Assistant, MBA Programme Admissions（MBA项目招生助理）",
+      "url": "https://jobs.hku.hk/cw/en/job/537637",
+      "verificationStatus": "verified_open",
+      "why": "状态更新：仅更新截止日、招录状态与核验日期，不改其他公开字段。"
+    }
+  ]
 }
